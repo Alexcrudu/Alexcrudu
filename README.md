@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Alexcrudu
 - 👀 I’m interested in Programing.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me alexandra.crudu87@gmail.com
 
 <!---
 Alexcrudu/Alexcrudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
